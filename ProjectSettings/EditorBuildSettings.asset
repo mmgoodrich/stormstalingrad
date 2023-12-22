@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/main menu.unity
+    guid: 87400649037bdc342b6215a2290324e0
+  - enabled: 1
+    path: Assets/Scenes/Skirmish.unity
+    guid: 14d49e55f4d6f5145a4cb5a51e9b6068
+  - enabled: 1
+    path: Assets/Scenes/finalStand.unity
+    guid: 8fe1ee5a127eea0478d0da579aa7bf01
+  m_configObjects: {}
