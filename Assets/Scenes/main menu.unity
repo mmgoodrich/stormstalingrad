@@ -1917,9 +1917,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'video
-
-'
+  m_text: "1680\xD71050\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 66e8db0b940691444bb130ac3199b587, type: 2}
   m_sharedMaterial: {fileID: -4897064098124754346, guid: 66e8db0b940691444bb130ac3199b587, type: 2}
@@ -2315,7 +2313,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: -8.7}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1369503792
@@ -2338,7 +2336,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'video
+  m_text: 'Display
+
 
 '
   m_isRightToLeft: 0
@@ -2959,9 +2958,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'video
-
-'
+  m_text: "1440\xD7900\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 66e8db0b940691444bb130ac3199b587, type: 2}
   m_sharedMaterial: {fileID: -4897064098124754346, guid: 66e8db0b940691444bb130ac3199b587, type: 2}
@@ -3097,9 +3094,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'video
-
-'
+  m_text: "1280\xD71024\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 66e8db0b940691444bb130ac3199b587, type: 2}
   m_sharedMaterial: {fileID: -4897064098124754346, guid: 66e8db0b940691444bb130ac3199b587, type: 2}
@@ -3235,9 +3230,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'video
-
-'
+  m_text: "1024\xD7768\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 66e8db0b940691444bb130ac3199b587, type: 2}
   m_sharedMaterial: {fileID: -4897064098124754346, guid: 66e8db0b940691444bb130ac3199b587, type: 2}
@@ -3951,7 +3944,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1825725070
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4339,9 +4332,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'video
-
-'
+  m_text: "1920\xD71080"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 66e8db0b940691444bb130ac3199b587, type: 2}
   m_sharedMaterial: {fileID: -4897064098124754346, guid: 66e8db0b940691444bb130ac3199b587, type: 2}
